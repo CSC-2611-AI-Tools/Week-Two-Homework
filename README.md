@@ -9,7 +9,7 @@ instructions to learn the steps.
 1. Upload a PDF of the completed notebook for credit.  
 
 ## Assignment 3: Functional Programming
-Overview: Follow through the attached notebooks to run and complete all cells.  Make sure you read the instructions to learn the 
+**Overview:** Follow through the attached notebooks to run and complete all cells.  Make sure you read the instructions to learn the 
 steps (the goal isn't to complete it quickly but to learn the steps)
 
 ### Submission Instructions
